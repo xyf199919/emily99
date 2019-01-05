@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>897222504560-as7jpa3282446vn8fejiijbinf1aq1sm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.897222504560-as7jpa3282446vn8fejiijbinf1aq1sm</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBgyoUNQNwcSYglNDAKRZ8qiHu7KoByUJY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>897222504560</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>XiaochenHan.CryBears</string>
+	<key>PROJECT_ID</key>
+	<string>crybears-43ec5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>crybears-43ec5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:897222504560:ios:172446dc682d55d9</string>
+	<key>DATABASE_URL</key>
+	<string>https://crybears-43ec5.firebaseio.com</string>
+</dict>
+</plist>

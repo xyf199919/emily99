@@ -1,0 +1,6 @@
+framework module Pods_CryBears {
+  umbrella header "Pods-CryBears-umbrella.h"
+
+  export *
+  module * { export * }
+}
